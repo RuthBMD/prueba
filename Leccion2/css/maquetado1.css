@@ -5,10 +5,12 @@ nav{
     display: flex;
     background-color: green;
     height: 100px;
-    border-top: 5px solid black;
+    /* border-top: 5px solid black;
     border-right: 5px solid black;
     border-bottom: 2.5px solid black;
-    border-left:5px solid black;
+    border-left:5px solid black; */
+
+    border: 5px 5px 2.5px 5px solid black;
     flex-direction: row;
     align-items: center;
     
